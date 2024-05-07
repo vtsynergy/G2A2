@@ -7,6 +7,6 @@ To address these shortcomings, we present G2A2, an automated <ins>g</ins>raph <i
 This repository contains code for G2A2 and a realistic graph library containing G2A2-generated social media graphs, article graphs, and Internet traffic graphs. The library
 encompasses graphs with varying anomaly percentages, as well as different numbers of nodes and edges, providing researchers with a tool for benchmarking various algorithms.
 
-##Citation
+### Citation
 
 [Pending] Will be provided as soon as the proceedings of 21st ACM International Conference on Computing Frontiers (CF' 24) is released.
