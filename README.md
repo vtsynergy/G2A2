@@ -9,7 +9,7 @@ encompasses graphs with varying anomaly percentages, as well as different number
 |------------------------|------------|------------|---------|----------|----------|----------------|------|
 | G2A2-Social Media      | 100000     | 10000      | 1000000 | 1        | 172      | 744            |      |
 | G2A2-Social Media      | 100000     | 10000      | 1000000 | 5        | 172      | 744            |      |
-| G2A2-Social Media      | 100000     | 10000      | 1000000 | 10       | 172      | 744            |      |
+| G2A2-Social Media      | 100000     | 10000      | 1000000 | 10       | 172      | 744            | [Download](https://drive.google.com/file/d/1ru8J3mhfuqj3-y_z0FcfKRR78WC4s1Nw/view?usp=sharing)     |
 | G2A2-Computer Networks | 100000     | 10000      | 1000000 | 1        | 19       | 144            |  [Download](https://drive.google.com/file/d/1Zr7GjSvtx3_KsOaQRksMXmf3eo_Fo-2W/view?usp=sharing)    |
 | G2A2-Computer Networks | 100000     | 10000      | 1000000 | 5        | 19       | 144            |  [Download](https://drive.google.com/file/d/18pQZtR9OVMEUZ7x4WanD27x16AE1ztd9/view?usp=sharing)    |
 | G2A2-Computer Networks | 100000     | 10000      | 1000000 | 10       | 19       | 144            |  [Download](https://drive.google.com/file/d/1j2RVDRcokvQP3-F1zOR4P_LnsrNVFFdw/view?usp=sharing)   |
