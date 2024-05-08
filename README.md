@@ -7,7 +7,7 @@ encompasses graphs with varying anomaly percentages, as well as different number
 
 | Domain                 | #nodes (U) | #nodes (V) | #edges  | anomaly% | Features | Duration (hrs) | Link |
 |------------------------|------------|------------|---------|----------|----------|----------------|------|
-| G2A2-Social Media      | 100000     | 10000      | 1000000 | 1        | 172      | 744            |      |
+| G2A2-Social Media      | 100000     | 10000      | 1000000 | 1        | 172      | 744            | [Download](https://drive.google.com/file/d/12zHuJO4fMHQ42Qa6X9fb-Dwc3F2yr64w/view?usp=sharing)      |
 | G2A2-Social Media      | 100000     | 10000      | 1000000 | 5        | 172      | 744            | [Download](https://drive.google.com/file/d/1sHtXTRmcry1F4BuVnbGvoDR_aW1mz9pr/view?usp=sharing)     |
 | G2A2-Social Media      | 100000     | 10000      | 1000000 | 10       | 172      | 744            | [Download](https://drive.google.com/file/d/1ru8J3mhfuqj3-y_z0FcfKRR78WC4s1Nw/view?usp=sharing)     |
 | G2A2-Computer Networks | 100000     | 10000      | 1000000 | 1        | 19       | 144            |  [Download](https://drive.google.com/file/d/1Zr7GjSvtx3_KsOaQRksMXmf3eo_Fo-2W/view?usp=sharing)    |
