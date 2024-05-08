@@ -17,3 +17,10 @@ encompasses graphs with varying anomaly percentages, as well as different number
 ### Citation
 
 [Pending] Will be provided as soon as the proceedings of 21st ACM International Conference on Computing Frontiers (CF' 24) is released.
+
+
+# License
+
+&copy; Virginia Polytechnic Institute and State University, 2023.
+
+Please refer to the included [LICENSE](./LICENSE) file.
