@@ -14,7 +14,7 @@ encompasses graphs with varying anomaly percentages, as well as different number
 | G2A2-Computer Networks | 100000     | 10000      | 1000000 | 5        | 19       |             |              |              | 144            |      |
 | G2A2-Computer Networks | 100000     | 10000      | 1000000 | 10       | 19       |             |              |              | 144            |      |
 
-### Citation
+# Citation
 
 [Pending] Will be provided as soon as the proceedings of 21st ACM International Conference on Computing Frontiers (CF' 24) is released.
 
