@@ -15,9 +15,25 @@ encompasses graphs with varying anomaly percentages, as well as different number
 | G2A2-Computer Networks | 100000     | 10000      | 1000000 | 10       | 19       | 144            |  [Download](https://drive.google.com/file/d/1j2RVDRcokvQP3-F1zOR4P_LnsrNVFFdw/view?usp=sharing)   |
 
 # Citation
-
-[Pending] Will be provided as soon as the proceedings of 21st ACM International Conference on Computing Frontiers (CF' 24) is released.
-
+If you use this code, please cite our Computing Frontiers (CF'24) paper:
+```
+@inproceedings{10.1145/3649153.3649206,
+author = {Dey, Saikat and Jha, Sonal and Feng, Wu-chun},
+title = {G2A2: Graph Generator with Attributes and Anomalies},
+year = {2024},
+isbn = {9798400705977},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3649153.3649206},
+doi = {10.1145/3649153.3649206},
+booktitle = {Proceedings of the 21st ACM International Conference on Computing Frontiers},
+pages = {3–11},
+numpages = {9},
+keywords = {Graph generation, bipartite graphs, dynamic graphs, ground truth},
+location = {Ischia, Italy},
+series = {CF '24}
+}
+```
 
 # License
 
